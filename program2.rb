@@ -1,4 +1,4 @@
-array = ['English', 'French', 'Spanish']  
+name = ['English', 'French', 'Spanish']  
 puts 'I love '+ name[0]+'!' 
 puts 'Don\'t you?'
 a = gets.chomp
